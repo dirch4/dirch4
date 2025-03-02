@@ -2,7 +2,7 @@
 <p >
     🔭 <strong>Freelance Developer</strong> and love exploring new tech.<br>
     🎓 Studied <strong>Computer Science</strong> at the <a href="https://www.unpak.ac.id/">Pakuan University</a>, Indonesia.<br>
-    🌱 I’m currently learning <strong>Flutter</strong>.<br>
+    🌱 I’m currently learning <strong>Machine Learning</strong>.<br>
     👯 I’m looking to collaborate on Open Source Projects<br>
     📫 How to reach me: <a href="mailto:dimasnurcahya478@gmail.com">dimasnurcahya478@gmail.com</a><br>
     ⚡ Fun fact: <strong>Did you know that the first computer virus was created in 1983 by a 15-year-old?</strong>
