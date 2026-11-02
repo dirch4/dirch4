@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ECECEC&vCenter=true&width=435&lines=Hi+There!;I'm+Dimas+Nurcahya" alt="Typing SVG" /></a>
 <p >
-    🔭 <strong>Freelance Developer</strong> and love exploring new tech.<br>
-    🎓 Studied <strong>Computer Science</strong> at the <a href="https://www.unpak.ac.id/">Pakuan University</a>, Indonesia.<br>
-    🌱 I’m currently learning <strong>Machine Learning</strong>.<br>
+    🔭 <strong>Web Developer</strong> and love exploring new tech.<br>
+    🎓 Fresh Graduate Computer Science<br>
     👯 I’m looking to collaborate on Open Source Projects<br>
     📫 How to reach me: <a href="mailto:dimasnurcahya478@gmail.com">dimasnurcahya478@gmail.com</a><br>
     ⚡ Fun fact: <strong>Did you know that the first computer virus was created in 1983 by a 15-year-old?</strong>
